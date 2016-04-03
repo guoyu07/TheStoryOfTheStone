@@ -4,3 +4,7 @@
 node_modules/
 platforms/
 plugins/
+bin/
+
+*.m4a
+*.mp3

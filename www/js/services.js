@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('starter.services', [])
+        .module('starter.services', ['MediaSrv'])
         .factory('Service', Service);
 
     Service.$inject = [];
